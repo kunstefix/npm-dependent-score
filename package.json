@@ -1,0 +1,17 @@
+{
+  "name": "npm-dependent-score",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dependentScore.js.js",
+  "scripts": {
+    "start": "node dependentScore.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-spinners": "^2.7.0",
+    "cross-fetch": "^3.1.5",
+    "ora": "^6.1.2"
+  },
+  "type": "module"
+}
